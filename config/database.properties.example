@@ -1,0 +1,6 @@
+# MySQL Database Configuration for AR System
+db.host=localhost
+db.port=3306
+db.database=ar_system
+db.username=root
+db.password=
